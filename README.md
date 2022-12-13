@@ -7,7 +7,7 @@ Hi there! 👋
 
 Currently working as a **junior full-stack engineer** @ [Bit Capital](https://www.linkedin.com/company/bitcapital-hq/mycompany/)
 
-What I work with:
+I work with:
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
